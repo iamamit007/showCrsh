@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/abhishek/Desktop/AYAN/showCrsh/Build/Products/Debug-iphonesimulator/Pods_showCrsh.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-showCrsh-umbrella.h",
+          'external-contents': "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Target Support Files/Pods-showCrsh/Pods-showCrsh-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_showCrsh-Swift.h",
+          'external-contents': "/Users/abhishek/Desktop/AYAN/showCrsh/Build/Products/Debug-iphonesimulator/Pods_showCrsh.framework/Headers/Pods_showCrsh-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/abhishek/Desktop/AYAN/showCrsh/Build/Products/Debug-iphonesimulator/Pods_showCrsh.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/abhishek/Desktop/AYAN/showCrsh/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-showCrsh.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

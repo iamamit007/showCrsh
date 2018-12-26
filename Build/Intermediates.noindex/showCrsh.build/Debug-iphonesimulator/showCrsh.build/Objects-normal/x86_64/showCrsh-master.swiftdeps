@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "20a607fcebf2d98d47b0bbda3f7887cb"
+build_time: [1545124899, 220073000]
+inputs:
+  "/Users/abhishek/Desktop/AYAN/showCrsh/showCrsh/ViewController.swift": [1545114916, 0]
+  "/Users/abhishek/Desktop/AYAN/showCrsh/showCrsh/AppDelegate.swift": [1545112470, 0]

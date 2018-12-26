@@ -1,0 +1,532 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "8showCrsh14ViewControllerC"
+provides-member:
+- ["8showCrsh14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "crashButtonTapped"
+- "viewDidLoad"
+depends-top-level:
+- "AnyObject"
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "CGRect"
+- !private "Crashlytics"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- !private "UIButton"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["So12UIButtonTypeV", "roundedRect"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["So6CGRectV", "init"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "Crashlytics"]
+- !private ["s7CVarArgP", "UIButton"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "crash"]
+- !private ["s7CVarArgP", "crashButtonTapped"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "sharedInstance"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["So11CrashlyticsC", "crash"]
+- !private ["So11CrashlyticsC", "sharedInstance"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "Crashlytics"]
+- !private ["s28CustomDebugStringConvertibleP", "UIButton"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "crash"]
+- !private ["s28CustomDebugStringConvertibleP", "crashButtonTapped"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "sharedInstance"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "addSubview"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "Crashlytics"]
+- !private ["s23CustomStringConvertibleP", "UIButton"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "crash"]
+- !private ["s23CustomStringConvertibleP", "crashButtonTapped"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "sharedInstance"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "addSubview"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "addSubview"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "CGRect"]
+- !private ["SQ", "Crashlytics"]
+- !private ["SQ", "UIButton"]
+- ["SQ", ""]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "crash"]
+- !private ["SQ", "crashButtonTapped"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "roundedRect"]
+- !private ["SQ", "setTitle"]
+- !private ["SQ", "sharedInstance"]
+- !private ["SQ", "touchUpInside"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["So15UIControlEventsV", "touchUpInside"]
+- !private ["s25ExpressibleByArrayLiteralP", "touchUpInside"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addSubview"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "CGRect"]
+- !private ["SH", "Crashlytics"]
+- !private ["SH", "UIButton"]
+- ["SH", ""]
+- !private ["SH", "addSubview"]
+- !private ["SH", "addTarget"]
+- !private ["SH", "crash"]
+- !private ["SH", "crashButtonTapped"]
+- !private ["SH", "frame"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "roundedRect"]
+- !private ["SH", "setTitle"]
+- !private ["SH", "sharedInstance"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "Crashlytics"]
+- !private ["So8NSCodingP", "UIButton"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "crashButtonTapped"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "setTitle"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "CGRect"]
+- !private ["So26NSExtensionRequestHandlingP", "Crashlytics"]
+- !private ["So26NSExtensionRequestHandlingP", "UIButton"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "crashButtonTapped"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "AnyObject"]
+- !private ["So8NSObjectC", "CGRect"]
+- !private ["So8NSObjectC", "Crashlytics"]
+- !private ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "crash"]
+- ["So8NSObjectC", "crashButtonTapped"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "setTitle"]
+- !private ["So8NSObjectC", "sharedInstance"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CGRect"]
+- !private ["So8NSObjectP", "Crashlytics"]
+- !private ["So8NSObjectP", "UIButton"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "crash"]
+- !private ["So8NSObjectP", "crashButtonTapped"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "setTitle"]
+- !private ["So8NSObjectP", "sharedInstance"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["s9OptionSetP", "touchUpInside"]
+- !private ["Sq", "addSubview"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "roundedRect"]
+- !private ["SY", "touchUpInside"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["s10SetAlgebraP", "touchUpInside"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "addTarget"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "Crashlytics"]
+- !private ["So21UIAppearanceContainerP", "UIButton"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "crashButtonTapped"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "addTarget"]
+- !private ["So8UIButtonC", "frame"]
+- !private ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So18UIContentContainerP", "CGRect"]
+- !private ["So18UIContentContainerP", "Crashlytics"]
+- !private ["So18UIContentContainerP", "UIButton"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "crashButtonTapped"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "frame"]
+- !private ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "setTitle"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "Crashlytics"]
+- !private ["So18UIFocusEnvironmentP", "UIButton"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "crashButtonTapped"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "Crashlytics"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "crashButtonTapped"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "AnyObject"]
+- !private ["So11UIResponderC", "CGRect"]
+- !private ["So11UIResponderC", "Crashlytics"]
+- !private ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "addTarget"]
+- ["So11UIResponderC", "crashButtonTapped"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "setTitle"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "Crashlytics"]
+- !private ["So30UIResponderStandardEditActionsP", "UIButton"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "crashButtonTapped"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addTarget"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "frame"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- !private ["So16UIStateRestoringP", "CGRect"]
+- !private ["So16UIStateRestoringP", "Crashlytics"]
+- !private ["So16UIStateRestoringP", "UIButton"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "crashButtonTapped"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "Crashlytics"]
+- !private ["So18UITraitEnvironmentP", "UIButton"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "crashButtonTapped"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "CGRect"]
+- !private ["So23UIUserActivityRestoringP", "Crashlytics"]
+- !private ["So23UIUserActivityRestoringP", "UIButton"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "crashButtonTapped"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "setTitle"]
+- ["So16UIViewControllerC", "AnyObject"]
+- !private ["So16UIViewControllerC", "CGRect"]
+- !private ["So16UIViewControllerC", "Crashlytics"]
+- !private ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "crashButtonTapped"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["8showCrsh14ViewControllerC", "AnyObject"]
+- !private ["8showCrsh14ViewControllerC", "CGRect"]
+- !private ["8showCrsh14ViewControllerC", "Crashlytics"]
+- !private ["8showCrsh14ViewControllerC", "UIButton"]
+- ["8showCrsh14ViewControllerC", "crashButtonTapped"]
+- ["8showCrsh14ViewControllerC", "init"]
+- !private ["8showCrsh14ViewControllerC", "view"]
+- ["8showCrsh14ViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Crashlytics"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIButton"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "crash"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "crashButtonTapped"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sharedInstance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "addSubview"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "So12UIButtonTypeV"
+- !private "So15CALayerDelegateP"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "So11CrashlyticsC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "So15UIControlEventsV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "8showCrsh14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Fabric/iOS/Fabric.framework/Headers/Fabric.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSStackFrame.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSLogging.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/Crashlytics.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Fabric/iOS/Fabric.framework/Headers/FABAttributes.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSAttributes.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/Answers.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSReport.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/ANSCompatibility.h"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Fabric/iOS/Fabric.framework/Modules/module.modulemap"
+- "/Users/abhishek/Desktop/AYAN/showCrsh/Pods/Crashlytics/iOS/Crashlytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ea5f012142ab5bc1ab0adb2cf6ea7ffb"
