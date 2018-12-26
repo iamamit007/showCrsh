@@ -13,6 +13,7 @@ import Crashlytics
 class ViewController: UIViewController {
 
     var str : String = "checking commit on second.......>"
+     var str2: String = "checking commit on third.......>"
     
     override func viewDidLoad() {
         super.viewDidLoad()
