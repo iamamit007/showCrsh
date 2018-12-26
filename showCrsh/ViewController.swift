@@ -12,6 +12,8 @@ import Crashlytics
 
 class ViewController: UIViewController {
 
+    var str : String = "checking commit on second.......>"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         /*let button = UIButton(type: .roundedRect)
