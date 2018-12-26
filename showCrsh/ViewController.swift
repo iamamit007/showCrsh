@@ -15,7 +15,8 @@ class ViewController: UIViewController {
     var str : String = "checking commit on second.......>"
      var str2: String = "checking commit on third.......>"
       var str3: String = "checking commit on 66666.......>"
-    
+    var str88: String = "checking commit on masterSSS.......>"
+
     override func viewDidLoad() {
         super.viewDidLoad()
         /*let button = UIButton(type: .roundedRect)
