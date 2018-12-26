@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 
     var str : String = "checking commit on second.......>"
      var str2: String = "checking commit on third.......>"
-      var str3: String = "checking commit on branch.......>"
+      var str3: String = "checking commit on 66666.......>"
     
     override func viewDidLoad() {
         super.viewDidLoad()
